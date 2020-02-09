@@ -2,8 +2,8 @@ This is my README, look
 
 at me!! 
 
-This change is brought 
+This change is ...
 
-to you by SSH!
+...brought to you by SSH!
 
 Some Example.
