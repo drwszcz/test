@@ -5,3 +5,4 @@ function mustaches (intPeople) {
         i++
     }
 }
+
